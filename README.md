@@ -1,7 +1,9 @@
 # REPOSITORIO DE NIKO VILLAR
 ![Imagen de Portada](recursos/sunsetbynikovillar.jpg)
-- Estudiante de Tecnico de Desarollo Multiplataforma
-- Estudiante de Grado en Geografía y Ordenación del Territorio
+Actualmente estudiante de:
+- 💻 Tecnico Superior de Desarollo de Aplicaciones Multiplataforma
+- 🌏 Estudiante de Grado en Geografía y Ordenación del Territorio
+  
 <!--
 **nikovillarc/nikovillarc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
