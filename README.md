@@ -1,4 +1,4 @@
-# REPOSITORIO DE NIKO VILLAR
+# APRENDIZ NIKO VILLAR
 ![Imagen de Portada](recursos/sunsetbynikovillar.jpg)
 Actualmente estudiante de:
 - 💻 Tecnico Superior de Desarollo de Aplicaciones Multiplataforma
