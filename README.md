@@ -1,10 +1,13 @@
 # REPOSITORIO DE NIKO VILLAR
 ![Imagen de Portada](recursos/nigth.JPG)
-## En desarrollo...
+- Estudiante de Tecnico de Desarollo Multiplataforma
+- Estudiante de Grado en Geografía y Ordenación del Territorio
 <!--
 **nikovillarc/nikovillarc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+- Estudiante de Tecnico de Desarollo Multiplataforma
+- Estudiante de Grado en Geografía y Ordenación del Territorio
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
