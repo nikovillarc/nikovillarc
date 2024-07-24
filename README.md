@@ -1,5 +1,5 @@
 # REPOSITORIO DE NIKO VILLAR
-![Imagen de Portada](recursos/sunsetbynikovillar.JPG)
+![Imagen de Portada](recursos/sunsetbynikovillar.jpg)
 - Estudiante de Tecnico de Desarollo Multiplataforma
 - Estudiante de Grado en Geografía y Ordenación del Territorio
 <!--
